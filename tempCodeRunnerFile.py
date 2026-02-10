@@ -1,0 +1,8 @@
+print("this is my student dictionary:-",student)
+# print("type of my student dictionary:-",type(student))
+# print("len of my student dictionary:-",len(student))
+# print(student["name"])
+# print(student["class"])
+# print(student["branch"])
+# print(student["collage_name"])
+# print(student["address"])
